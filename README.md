@@ -17,11 +17,14 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JungHyun%20Park&fontSize=90)
 
-## Hi there 👋 
-- usually using Java language for programming
-- study Java, Spring, AI technology
+<h3 align = "center">Hi there 👋 </h3>
+<p align = "center">
+  I'm JungHyun Park, backend developer. <br>
+  I usually use Java language for programming, <br>
+  and I am studying Java, Spring, AI technology.
+</p>  
 
-## 💫 Tech Stacks 💫
+<h3 align = "center">💫 Tech Stacks 💫</h3>
 <p align = "center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
@@ -40,5 +43,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
 </p>
 
-<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer) -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer)
 
