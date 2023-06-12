@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 <br>
 
-![jjung's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkje0927&show_icons=true&theme=nightowl&count_private=true)
+<!-- ![jjung's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkje0927&show_icons=true&theme=nightowl&count_private=true) -->
 
 <!--
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer)
