@@ -21,21 +21,21 @@ Here are some ideas to get you started:
 <p align = "center">
   I'm JungHyun Park, backend developer. <br>
   I usually use Java language for programming, <br>
-  and I am studying Java, Spring, and AI technology.
+  and I am studying Java, Spring.
 </p>  
 
 <h3 align = "center">💫 Tech Stacks 💫</h3>
 <p align = "center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 </p>
 
 <p align = "center">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/> -->
 <!--   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>    -->
 </p>  
 
@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 
 <!-- ![jjung's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkje0927&show_icons=true&theme=nightowl&count_private=true) -->
 
-<!--
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer)
--->
+
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=footer) -->
+
