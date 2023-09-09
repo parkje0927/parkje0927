@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>
 
 ## ✨ Experienced Tech Stacks
+- <img src="https://img.shields.io/badge/Kotlin-A979B1?style=flat-square&logo=Kotlin&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
 - <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
