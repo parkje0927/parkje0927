@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h2>Hi there 👋 <br> I'm JungHyun Park, junior backend developer. </h2>
 
 ## 🙋🏻‍♀️ About Me
-- 🔭 I’m currently working on [Zum Internet](https://zum.com/).
+- 🔭 I’m currently working on [ESTsoft](https://m.estsoft.ai/).
 - 🎓 I graduated from Sookmyung Women's University.
 - 📓 [비사이드 프로젝트 13기](https://bside.best/)
 - 📘 [디프만 13기](https://www.depromeet.com/)
